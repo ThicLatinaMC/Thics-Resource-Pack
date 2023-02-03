@@ -13,7 +13,7 @@ This pack is a pull together of all my favourite packs, and some of my own custo
 It is also worth noting I use this pack along side Shaders, and it works BEAUTIFULLY! Never have any problems with it. 
 
 ## Installation
-To install this pack, please check out the latest [releases](www.realease.com) page
+To install this pack, please check out the latest [releases](https://github.com/ThicLatinaMC/Thics-Resource-Pack/releases) page
 
 1. Download the pack
 2. Open the 'Resource Packs' folder

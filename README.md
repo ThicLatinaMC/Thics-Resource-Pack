@@ -4,7 +4,7 @@
 # Thics Resource Pack
 The pack I use day to day
 
-  [Info](#info) | [Installation](#installation) | [Troubleshooting](#troubleshooting) | [Contributions](#contributions) | [Images](#images)
+  [Info](#info) | [Installation](#installation) | [Troubleshooting](#troubleshooting) | [Contributions](#contributions) | [Videos](#videos) | [Images](#images)
 </div>
 
 ## Info
@@ -30,8 +30,10 @@ If for whatever reason you are having trouble with the pack, these would be the 
 
 ## Contributions
 For a list of all contributions, please see the [contributions](https://github.com/ThicLatinaMC/Thics-Resource-Pack/tree/main/Pack/Contributions) page
-## Images
 
+## Videos
+To see the texture pack in action, feel free to watch any videos on my [youtube](https://www.youtube.com/channel/UCuNAyJVMWh_PQrXtkG83otw) channel where gameplay will be using it!
+## Images
 <img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/animated_textures.gif" width="1000"/>
 <img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/Font.png" width="1000"/>
 <img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/book_textures.png" width="1000"/>

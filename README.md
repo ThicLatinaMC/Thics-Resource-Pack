@@ -29,5 +29,18 @@ If for whatever reason you are having trouble with the pack, these would be the 
 3. If you are not seeing the pack in your list of Resource Packs, i would suggest extracting/unzipping the pack and adding the folder itself into the pack
 
 ## Contributions
-
+For a list of all contributions, please see the [contributions](https://github.com/ThicLatinaMC/Thics-Resource-Pack/tree/main/Pack/Contributions) page
 ## Images
+
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/animated_textures.gif" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/Font.png" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/book_textures.png" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/dogs_textures.gif" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/glass_boats_textures.png" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/moon_texture.png" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/sun_texture.png" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/potion_textures.gif" width="1000"/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/texture%201.png" width=auto/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/texture%202.png" width=auto/>
+<img src="https://github.com/ThicLatinaMC/Thics-Resource-Pack/blob/main/Assets/texture%203.png" width=auto/>
+
